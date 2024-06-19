@@ -1,19 +1,9 @@
-# Installation
+Objectives:
+To design a user-friendly responsive website for all users' devices (mobile).
+The site is to introduce a user to a cutting-edge financial solution offering that can help take care of their finance.
 
-```
-# Install dependencies
-npm install
-
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+Tech Stack:
+HTML, CSS3 with Tailwind, and JavaScript.
+HTML provides the basic structure of site which is enhanced and modified with CSS and JavaScript.
+JavaScript is used to control the behavior of different elements.
+CSS3 with Tailwind to accelerate development by leveraging on pre-defined utility classes.
